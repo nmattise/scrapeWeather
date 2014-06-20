@@ -1,0 +1,15 @@
+{
+  "name": "scrapeWeather",
+  "version": "0.0.0",
+  "description": "Scrape Historical Weather Data for single day, months and custom range",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather",
+    "scrape"
+  ],
+  "author": "Nicholas W. Mattise",
+  "license": "MIT"
+}
